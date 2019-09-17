@@ -1,0 +1,6 @@
+C:\Users\nikos\source\repos\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.exe.config
+C:\Users\nikos\source\repos\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.exe
+C:\Users\nikos\source\repos\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.pdb
+C:\Users\nikos\source\repos\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.exe
+C:\Users\nikos\source\repos\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.pdb
